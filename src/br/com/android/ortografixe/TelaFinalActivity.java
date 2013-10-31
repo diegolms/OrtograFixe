@@ -50,13 +50,6 @@ import com.badlogic.gdx.physics.box2d.Body;
 import com.badlogic.gdx.physics.box2d.BodyDef.BodyType;
 import com.badlogic.gdx.physics.box2d.FixtureDef;
 
-/**
- * (c) 2010 Nicolas Gramlich
- * (c) 2011 Zynga
- *
- * @author Nicolas Gramlich
- * @since 18:47:08 - 19.03.2010
- */
 public class TelaFinalActivity extends BaseGameActivity{
 	// ===========================================================
 	// Constants
